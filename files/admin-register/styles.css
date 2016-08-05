@@ -12,10 +12,29 @@
   position:absolute;
   z-index:0;
 }
-#u83 {
+#u81 {
   position:absolute;
   left:343px;
   top:189px;
+  width:167px;
+  height:16px;
+}
+#u82 {
+  position:absolute;
+  left:16px;
+  top:0px;
+  width:149px;
+  word-wrap:break-word;
+}
+#u81_input {
+  position:absolute;
+  left:-3px;
+  top:-2px;
+}
+#u83 {
+  position:absolute;
+  left:343px;
+  top:260px;
   width:167px;
   height:16px;
 }
@@ -34,7 +53,7 @@
 #u85 {
   position:absolute;
   left:343px;
-  top:260px;
+  top:226px;
   width:167px;
   height:16px;
 }
@@ -50,26 +69,7 @@
   left:-3px;
   top:-2px;
 }
-#u87 {
-  position:absolute;
-  left:343px;
-  top:226px;
-  width:167px;
-  height:16px;
-}
-#u88 {
-  position:absolute;
-  left:16px;
-  top:0px;
-  width:149px;
-  word-wrap:break-word;
-}
-#u87_input {
-  position:absolute;
-  left:-3px;
-  top:-2px;
-}
-#u89_div {
+#u87_div {
   position:absolute;
   left:0px;
   top:0px;
@@ -86,44 +86,65 @@
   -webkit-box-shadow:none;
   box-shadow:none;
 }
-#u89 {
+#u87 {
   position:absolute;
   left:947px;
   top:20px;
   width:140px;
   height:40px;
 }
-#u90 {
+#u88 {
   position:absolute;
   left:2px;
   top:12px;
   width:136px;
   word-wrap:break-word;
 }
-#u91 {
+#u89 {
   position:absolute;
   left:0px;
   top:189px;
   width:100px;
-  height:60px;
+  height:90px;
 }
-#u91_menu {
+#u89_menu {
   position:absolute;
   left:-3px;
   top:-3px;
   width:106px;
-  height:66px;
+  height:96px;
   -webkit-transform:rotate(NaNdeg);
   -moz-transform:rotate(NaNdeg);
   -ms-transform:rotate(NaNdeg);
   transform:rotate(NaNdeg);
 }
-#u92 {
+#u90 {
   position:absolute;
   left:0px;
   top:0px;
   width:105px;
-  height:65px;
+  height:95px;
+}
+#u91_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:100px;
+  height:30px;
+}
+#u91 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:100px;
+  height:30px;
+}
+#u92 {
+  position:absolute;
+  left:2px;
+  top:8px;
+  width:96px;
+  word-wrap:break-word;
 }
 #u93_img {
   position:absolute;
@@ -135,7 +156,7 @@
 #u93 {
   position:absolute;
   left:0px;
-  top:0px;
+  top:30px;
   width:100px;
   height:30px;
 }
@@ -156,7 +177,7 @@
 #u95 {
   position:absolute;
   left:0px;
-  top:30px;
+  top:60px;
   width:100px;
   height:30px;
 }
