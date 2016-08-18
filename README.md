@@ -1,3 +1,3 @@
-# greedpatch-server-prd
+# greedpatch-front-prd
 
-the product requirement document for greedpatch-server 
+the product requirement document for greedpatch-front 
